@@ -1,2 +1,2 @@
 # legendary-waffle-dev
-Fall 2024
+CIS-486-01 Fall 2024
